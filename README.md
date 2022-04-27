@@ -61,3 +61,7 @@ We also experimented with adding a built in recorder so that you can chose to ei
 There is also a notebook with the same code as in application but with some documentation as well: [Application_doc.ipynb](https://nbviewer.org/github/oyvindgrutle/DAT255-project/blob/master/nbs/Application_doc.ipynb).
 
 ---
+
+[@oyvindgrutle](github.com/oyvindgrutle) 
+
+[@Jethuestad](github.com/Jethuestad)
