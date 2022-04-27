@@ -47,7 +47,7 @@ Then you should see something like this:
 
 ### Application with built in recording
 
-We also experimented with adding a built in recorder so that you can chose to either upload a file or record the audio directly in the application and classify that. It is working in the [Application_V2.ipynb](https://nbviewer.org/github/oyvindgrutle/DAT255-project/blob/master/nbs/Application_V2.ipynb), however it did not look vey good so we decided to include both of the notebooks.
+We also experimented with adding a built in recorder so that you can chose to either upload a file or record the audio directly in the application and classify that. We made a working versio in [Application_V2.ipynb](https://nbviewer.org/github/oyvindgrutle/DAT255-project/blob/master/nbs/Application_V2.ipynb), however it did not look vey good so we decided to include both of the notebooks.
 
 ![image](https://user-images.githubusercontent.com/57411743/165594818-0b194363-f13f-44e9-b6f4-dd12cb8ba9bb.png)
 
