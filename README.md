@@ -24,6 +24,6 @@ Our methods are mostly built on the fastai library and the methods used in the [
 
 ## Motivation
 
-
+Machine learning with audio can be used in many different situations. From simple usage like creating an application for predicting bird sounds to more complex task like audio transcription. 
 
 ---
