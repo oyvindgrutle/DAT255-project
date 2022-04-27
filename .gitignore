@@ -1,4 +1,4 @@
-/nbs/models
+nbs/models
 *.pkl
 .ipynb_checkpoints
 model.png
